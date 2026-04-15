@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "competitive",
+  "config_description": "--Distressed Restaurants with Verified Decline--\n\nEstablished, well-reviewed restaurants now experiencing a sharp and confirmed drop in customer sentiment.\n\nThese are previously high-performing venues where the 360-day sentiment was strong, but 90-day sentiment has crashed by 30%+.\n\nThat's a leading indicator of operational trouble, ownership fatigue, or market-ready distress.\n\nEvery listing is an independent restaurant (no large chains), confirmed active with 100+ total reviews and an \"Active Heartbeat\" signal within the last 90 days.\n\nEach restaurant in this dataset has at least one verified and contactable email address.",
+  "config_name": "Restaurant Sentiment Crashers Prime in Massachusetts, US",
+  "export_job_id": "7dbc969d-1401-47ea-887a-17cd4a02fc81",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 758095,
+  "location_name": "Massachusetts",
+  "location_type": "state",
+  "repo_name": "restaurant-sentiment-crashers-prime-in-massachusetts-us-sample-758095",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/758095/beamstation_758095_restaurants-us-ma_SAMPLE_DIST.csv",
+  "sample_pct": 9.57,
+  "sample_records": 9,
+  "sample_sha256": "dc7ff811c718213956412c648c41f5bfc578ee26fa243d6d3255cf9dc631d800",
+  "sample_size_bytes": 50353,
+  "total_records": 94,
+  "updated_at": "2026-04-08T02:04:03.570564+00:00"
+}
