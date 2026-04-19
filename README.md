@@ -1,6 +1,6 @@
 # Restaurant Sentiment Crashers Prime in Massachusetts, US
 
-> Free BeamStation sample export with 9 rows and masked direct-contact fields.
+> Free BeamStation sample export with 54 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `758095` |
 | Location | Massachusetts |
 | Category | Restaurants |
-| Full dataset size | 94 records |
-| Free sample size | 9 records (9.57%) |
-| Last export | 2026-04-08T02:04:03.570564+00:00 |
+| Full dataset size | 546 records |
+| Free sample size | 54 records (9.89%) |
+| Last export | 2026-04-15T07:41:00.793152+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-sentiment-crashers-prime-in-massachusetts-us-sample-758095/releases/download/sample-latest/beamstation_758095_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
