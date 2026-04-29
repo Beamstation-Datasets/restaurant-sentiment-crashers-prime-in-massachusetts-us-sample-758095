@@ -1,12 +1,12 @@
 {
-  "export_job_id": "819dc543-03d7-488a-adc7-22f1dc0338a0",
+  "export_job_id": "2ce0d8d1-03e6-47cc-bc06-b2a59242366f",
   "id_short": 758095,
-  "published_at": "2026-04-23T07:08:40Z",
+  "published_at": "2026-04-29T19:35:32Z",
   "repo_name": "restaurant-sentiment-crashers-prime-in-massachusetts-us-sample-758095",
   "sample_asset_name": "beamstation_758095_restaurants-us-ma_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/758095/beamstation_758095_restaurants-us-ma_SAMPLE_DIST.csv",
-  "sample_records": 48,
-  "sample_sha256": "ad934d8f1756b66979748b811b81ee4f5068e22759de58bcbf5b69ecc4782066",
-  "sample_size_bytes": 205485,
-  "total_records": 485
+  "sample_records": 49,
+  "sample_sha256": "fa9066c075ca32112a680ddacf710a983c092714db0a5003c37fff1081742269",
+  "sample_size_bytes": 201388,
+  "total_records": 498
 }
